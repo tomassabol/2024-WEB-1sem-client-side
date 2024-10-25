@@ -1,4 +1,4 @@
-# Intro to React: Topics
+# Intro to React
 
 Today's most important topic, is an introduction to React, and (some of) it's fundamentals.
 
