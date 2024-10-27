@@ -25,16 +25,19 @@ Here's a list of planned exercises for the lecture, and relevant things to work 
 
 ### During
 
-1. Scaffold your first React project.
+1. Find a job posting you find interesting.
+   1. [Miro-board](https://miro.com/app/board/uXjVLOHFojs=/?share_link_id=427245660998)
+3. Scaffold your first React project.
    1. Analyse the result
-2. Build your first React Component
-3. Create a reuseable Component with props.
+4. Build your first React Component
+5. Create a reuseable Component with props.
 
 ### After
 
-1. Analyse your exam project, and start working on some of the fundamental components. Like buttons and input-fields.
+1. Analyse your exam project, and identify (some of) the fundamental components required
+2. Start working on these components (E.g. buttons and input-fields).
 
-2. </details>
+</details>
 
 ## Resources
 
