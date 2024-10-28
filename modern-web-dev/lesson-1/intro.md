@@ -27,10 +27,10 @@ Here's a list of planned exercises for the lecture, and relevant things to work 
 
 1. Find a job posting you find interesting.
    1. [Miro-board](https://miro.com/app/board/uXjVLOHFojs=/?share_link_id=427245660998)
-3. Scaffold your first React project.
+2. Scaffold your first React project.
    1. Analyse the result
-4. Build your first React Component
-5. Create a reuseable Component with props.
+3. Build your first React Component
+4. Create a reuseable Component with props.
 
 ### After
 
@@ -60,5 +60,9 @@ Here's a list of resources directly refered to, or related to the topics, during
 1. [React for beginners handbook](https://www.freecodecamp.org/news/react-for-beginners-handbook/)
 2. [An interactive React tutorial](https://v2.scrimba.com/learn-react-c0e)
 3. [React's very usefull learning documentation](www.react.dev/learn)
+4. [Usefull JavaScript to know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
+5. TypeScript
+   1. [Beginner's TypeScript - By Matt Pocock](https://www.totaltypescript.com/tutorials/beginners-typescript)
+   2. [Learn TypeScript with Interactive Lessons - By Bob Ziroll](https://www.freecodecamp.org/news/learn-typescript-with-interactive-lessons/)
 
 </details>
