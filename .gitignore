@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # My files
-*/*todo.md
+*/*.todo.md
