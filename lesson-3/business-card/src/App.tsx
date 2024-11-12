@@ -2,6 +2,7 @@ import { useState } from "react";
 import "./App.css";
 import PrimaryButton from "./components/atoms/PrimaryButton";
 import CardForm from "./components/molecules/CardForm";
+import CardList from "./components/molecules/CardList";
 
 function App() {
   const [count, setCount] = useState<number | null>(null);
@@ -42,6 +43,7 @@ function App() {
       <PrimaryButton buttonText="Increase by 1" onClick={handleIncreaseCount} />
       <PrimaryButton buttonText="Create new" onClick={handleCreateNew} />
       <CardForm />
+      <CardList />
     </>
   );
 }
