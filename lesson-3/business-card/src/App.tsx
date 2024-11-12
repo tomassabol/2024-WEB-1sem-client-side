@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import PrimaryButton from "./components/atoms/PrimaryButton";
+import CardForm from "./components/molecules/CardForm";
 
 function App() {
   const [count, setCount] = useState<number | null>(null);
@@ -9,7 +10,7 @@ function App() {
     console.log("Hello from handleIncreaseCount");
 
     //Staticly updating a state value
-    //setCount(3);
+    // setCount(3);
 
     // This will work
     // setCount(count + 1);
@@ -40,6 +41,7 @@ function App() {
       <PrimaryButton buttonText="Increase by 1" onClick={handleIncreaseCount} />
       <PrimaryButton buttonText="Increase by 1" onClick={handleIncreaseCount} />
       <PrimaryButton buttonText="Create new" onClick={handleCreateNew} />
+      <CardForm />
     </>
   );
 }
